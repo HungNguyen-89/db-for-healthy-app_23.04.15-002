@@ -269,5 +269,24 @@
             "body_record_1": 3490,
             "body_record_2": 4300
         }
+    ],
+    "recommended-group":[
+        {
+            "title": "RECOMMENDED COLUMN",
+            "classify": "オススメ"
+        },
+        {
+            "title": "RECOMMENDED DIET",
+            "classify": "ダイエット"
+
+        },
+        {
+            "title": "RECOMMENDED BEAUTY",
+            "classify": "美容"
+        },
+        {
+            "title": "RECOMMENDED HEALTH",
+            "classify": "健康"
+        }
     ]
 }
