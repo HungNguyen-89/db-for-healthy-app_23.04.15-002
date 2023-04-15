@@ -227,7 +227,7 @@
         {
             "name": "9月",
             "body_record_1": 2900,
-            " body_record_2": 3300
+            "body_record_2": 3300
         },
         {
             "name": "10月",
@@ -247,7 +247,7 @@
         {
             "name": "1月",
             "body_record_1": 2780,
-            " body_record_2": 3908
+            "body_record_2": 3908
         },
         {
             "name": "2月",
@@ -266,7 +266,7 @@
         },
         {
             "name": "5月",
-            " body_record_1": 3490,
+            "body_record_1": 3490,
             "body_record_2": 4300
         }
     ]
