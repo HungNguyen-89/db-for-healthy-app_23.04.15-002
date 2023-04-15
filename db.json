@@ -1,35 +1,4 @@
 {
-    "users": [
-        {
-            "id": "admin",
-            "name": "Hung Nguyen",
-            "password": "123456",
-            "email": "hungnguyenhust89@gmail.com",
-            "phone": "0938539589",
-            "country": "vietnam",
-            "address": "Ha Noi",
-            "gender": "male",
-            "role": "manager"
-        },
-        {
-            "id": "user",
-            "name": "Hung Nguyen",
-            "password": "123456",
-            "email": "hungnguyenhust89@gmail.com",
-            "phone": "0938539589",
-            "country": "vietnam",
-            "address": "Ha Noi",
-            "gender": "male",
-            "role": "user"
-        }
-    ],
-    "component-hex-btn": [
-        {
-            "id": 1,
-            "icon": "./images/component-hex-btn/icon_knife.png",
-            "title": "Morning"
-        }
-    ],
     "food-history": [
         {
             "id": 1,
@@ -296,7 +265,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-1 (image).svg"
+            "image": "./images/ColumnPage/column-1 (image).svg"
         },
         {
             "id":2,
@@ -304,7 +273,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-2 (image).svg"
+            "image": "./images/ColumnPage/column-2 (image).svg"
         },
         {
             "id":3,
@@ -312,7 +281,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-3 (image).svg"
+            "image": "./images/ColumnPage/column-3 (image).svg"
         },
         {
             "id":4,
@@ -320,7 +289,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-4 (image).svg"
+            "image": "./images/ColumnPage/column-4 (image).svg"
         },
         {
             "id":5,
@@ -328,7 +297,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-5 (image).svg"
+            "image": "./images/ColumnPage/column-5 (image).svg"
         },
         {
             "id":6,
@@ -336,7 +305,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-6 (image).svg"
+            "image": "./images/ColumnPage/column-6 (image).svg"
         },
         {
             "id":7,
@@ -344,7 +313,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-7 (image).svg"
+            "image": "./images/ColumnPage/column-7 (image).svg"
         },
         {
             "id":8,
@@ -352,7 +321,7 @@
             "time":"23:25",
             "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
             "classify": "#魚料理  #和食  #DHA",
-            "image": "../assets/column-8 (image).svg"
+            "image": "./images/ColumnPage/column-8 (image).svg"
         }
     ]
 }
